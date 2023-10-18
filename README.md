@@ -1,2 +1,2 @@
 # MyPet
-CSE343 Software Wngineering Lecture Project
+CSE343 Software Engineering Lecture Project
